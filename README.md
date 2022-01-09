@@ -2,7 +2,7 @@
 
 This is a very basic Hello World program. By Kupu Tuifua.
 
-I created this to demonstrate 
+I created this to demonstrate the use of new development tools that I am learning such as how to use version control with GitHub
 
 
 [Software Demo Video](https://byui.zoom.us/rec/play/O9SqqEDI9pNewP44eOeHtH4qrX8nqc0VGnt67p2RafUlnQsc8MECzHoyU0n6au4zbl3UbAsqvx5SsOsg.KsX0r_gBqoyCn_NN?_x_zm_rhtaid=639&_x_zm_rtaid=bLgsUPnATzS6yooLLK0ahQ.1641699781170.e845785df1b9cee3d7cd8734047a8188&autoplay=true&continueMode=true&startTime=1641699536000)
